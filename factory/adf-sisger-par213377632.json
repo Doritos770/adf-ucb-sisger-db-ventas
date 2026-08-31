@@ -1,0 +1,15 @@
+{
+	"name": "adf-sisger-par213377632",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "brazilsouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e5f4b97c-dd21-488e-abce-5f245c67c7de",
+		"tenantId": "ed9d47e8-b05f-4402-b0dd-a95f58945d1b"
+	}
+}
