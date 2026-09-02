@@ -1,0 +1,15 @@
+{
+	"name": "dw-ventas",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "brazilsouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7c068af3-d3ce-4c98-a424-9e1df1b9ce75",
+		"tenantId": "ed9d47e8-b05f-4402-b0dd-a95f58945d1b"
+	}
+}
